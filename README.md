@@ -2,4 +2,4 @@
 
 Created for use with the FTC SDK
 
-Uses OpenCV and FTCDashboard
+Uses EasyOpenCV and FTCDashboard
